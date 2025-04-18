@@ -96,10 +96,15 @@ button:hover{
     display: inline;
     width:100%;
     height:auto;
-    padding:6px;
+    padding:8px;
     background-color:rgb(89, 89, 118) ;
     color: wheat;
     text-align: center;
     position:fixed;
     bottom: 0;
+}
+
+
+div > ol{
+    list-style-type: none;
 }
